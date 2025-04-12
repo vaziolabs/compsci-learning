@@ -1,0 +1,3 @@
+[submodule "nova_engine"]
+	path = nova_engine
+	url = git@github.com:vaziolabs/Nova.git
